@@ -1,6 +1,7 @@
 I make random websites for fun
+I play alto sax in the WHEU 🎷
 
-The only one actually worth mentioning is my [Civilization VI timeline viewer](https://potatostonks.github.io/civ6-timeline)
+I also made [a website](https://isaac-goldberg.github.io/WHEU-FieldShows) with all the WHEU 2021 season field show performances
 
 ---
 Links
