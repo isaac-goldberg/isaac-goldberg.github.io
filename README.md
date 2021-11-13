@@ -1,7 +1,8 @@
 I make random websites for fun
-I play alto sax in the WHEU 🎷
 
-I also made [a website](https://isaac-goldberg.github.io/WHEU-FieldShows) with all the WHEU 2021 season field show performances
+I also play alto sax in the WHEU 🎷
+
+Here's [a website](https://isaac-goldberg.github.io/WHEU-FieldShows) I made with all the WHEU 2021 season field show performances
 
 ---
 Links
