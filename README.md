@@ -1,11 +1,12 @@
-I make random websites for fun
+I program a lot of totally random stuff
 
-I also play alto sax in the WHEU 🎷
+---
+Actually functioning websites
 
-Here's [a website](https://isaac-goldberg.github.io/WHEU-FieldShows) I made with all the WHEU 2021 season field show performances
+- [Limaçon Grapher](https://isaac-goldberg.github.io/polar-grapher)
 
 ---
 Links
 
-- [Github](https://github.com/potatostonks)
-- [Stack Overflow](https://stackoverflow.com/users/16158590/potatostonks)
+- [Github](https://github.com/isaac-goldberg)
+- [Stack Overflow](https://stackoverflow.com/users/16158590/isaac-g)
